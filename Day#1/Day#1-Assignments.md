@@ -86,11 +86,11 @@
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> https://github.com/Ramyaak04/22AM0XE-Assignments
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> (https://www.linkedin.com/posts/ramya-a-96947a285_machinelearning-cloudcomputing-mldeployment-activity-7254916961011212289-SZ1k?utm_source=share&utm_medium=member_desktop)
 
 ***
