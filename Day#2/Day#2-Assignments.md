@@ -53,26 +53,27 @@
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> ![Screenshot 2024-10-23 211912](https://github.com/user-attachments/assets/8efb6881-82e0-4e93-938b-0000d5f0019b)
+> ![image](https://github.com/user-attachments/assets/65cbd933-d824-40f2-9040-2adf54ba1dc3)
+
 
 ***
 
 #### #6 [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> [Screenshot 2024-10-23 211912](https://github.com/user-attachments/assets/8efb6881-82e0-4e93-938b-0000d5f0019b)
 
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> https://github.com/SanthoshNC/22AM0XE-Assignments/pull/1
 
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> https://github.com/Ramyaak04/22AM0XE-Assignments/commit/e7b138848ea7331438a150172a26062b4cc0b09b
 
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> https://www.linkedin.com/posts/ramya-a-96947a285_machinelearning-cloudcomputing-mldeployment-activity-7254916961011212289-SZ1k?utm_source=share&utm_medium=member_desktop
 
 ***
