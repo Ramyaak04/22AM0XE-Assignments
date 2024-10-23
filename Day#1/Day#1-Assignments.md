@@ -66,25 +66,6 @@
 ***
 
 
-
-#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
-    
-  - Disney+Hotstar (Hosted on  Amazon Web Services)
-  - Logo- ![image](https://github.com/user-attachments/assets/11ea045f-a7a7-474a-a728-e1854dc95d15)
-  - Details: A well-known streaming platform providing an extensive library of films, series, and exclusive content to viewers globally.
- 
-  - Netflix (hosted on Amazon Web Services)
-  - Logo: ![image](https://github.com/user-attachments/assets/1ea0b538-5fba-4f40-9e2c-c0861d4c5005)
-  - Details: A well-known streaming platform providing an extensive library of films, series, and exclusive content to viewers globally.
- 
-  - 
-
-***
-
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
 > https://github.com/Ramyaak04/22AM0XE-Assignments
 
