@@ -25,13 +25,14 @@
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+> - ![image](https://github.com/user-attachments/assets/7189052a-ee5d-4ec1-acc0-fe2273ffc21d)
+
 
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> Add your answer here!
+> ![Screenshot 2024-10-21 161342](https://github.com/user-attachments/assets/87620e1f-745c-4c75-a4d7-b2d92a94f452)
+
 
 ***
 
